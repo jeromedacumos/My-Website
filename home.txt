@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>My Site</title>
+</head>
+<frameset rows="10%,85%">
+ <frame src="tabs.html">
+ <frame src="body.html" name="2" noresize="no">
+</frameset>
+

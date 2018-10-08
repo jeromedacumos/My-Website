@@ -1,0 +1,26 @@
+<html>
+<body><center>
+<style>
+body {background-image: url(bwall.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
+</style>
+<table style="border: 10px double black; width: 100%;height: 30%;">
+ <tr>
+ <th><h1><b><u><i>HAPPINESS</i></u></b></h1></th>
+ </tr>
+</table>
+<br>
+<hr>
+<br>
+<h2><font color="gold">Introduction</h2>
+<br>
+<font color="gold">
+<section class="container; center; content" style="max-width:600px">
+ <p class="justify"><font size="5">what makes you happy? for me a thing that makes me happy is the thing I wanna do like choices, we all have choices to make it is our decision or our free will, we are being happy with choices because we made those things planned with choices. We are happy to do things in our life cause it makes good memories, It seems we have our own freedom to choose what our decisions will be...
+</p>
+<br>
+<img src="intro.jpg" width="300" height="400">
+<br>
+<section class="container; center; content" style="max-width:600px">
+ <p class="justify"><font size="5">Sometimes I get bored when things had reached their limits...
+
+

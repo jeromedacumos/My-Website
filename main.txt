@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Get started</title>
+</head>
+<body><center>
+<style>
+body {background-image: url(main.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
+</style>
+<br>
+<br>
+<br>
+<br>
+<table style="border: 10px double gold; width: 80%; height: 70%;">
+<tr>
+ <th><h1><i><font size="14"><font color="gold">WELCOME</i></h1><th>
+</tr>
+<tr>
+ <th><h3><a href="home.html" target="_self"><p class="opacity"><font color="gold"><i>Get started?</i></p></a></h3></th>
+</tr>
+</table>
